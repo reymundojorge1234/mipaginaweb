@@ -1,0 +1,47 @@
+ul.menu2{
+background-color: green;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+top: 0 ;
+margin: 0px;
+width: 100%
+
+}
+
+
+ul.menu2 li{
+  display: inline;
+
+}
+
+body{
+margin: 0px;
+
+}
+
+ul.menu2 li a{
+  text-decoration: none;
+  color: yellow;
+  font-family: tahoma;
+
+}
+
+
+#tex1{
+  text-align: justify;
+  font-family: arial;
+  color: blue;
+}
+
+#tex2{
+  text-align: justify;
+  font-family: arial;
+  color: blue;
+}
+
+#tex3{
+  text-align: justify;
+  font-family: arial;
+  color: blue;
+}
